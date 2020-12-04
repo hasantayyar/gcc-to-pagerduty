@@ -1,2 +1,3 @@
 # gcc-to-pagerduty
-Google Cloud Security Command Center to Pagerduty
+
+A function to push incoming SCC Pub/Sub events to PagerDuty
